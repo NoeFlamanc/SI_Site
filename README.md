@@ -29,3 +29,33 @@ U4 = 0,03 + 4,88 + 0,4 = 0,188 W/m²*K
 | 1,99 | 1,79 | 0,68 | 2,09 | 9,02 |
 
 ## Etude de la régulation thermique Tout ou Rien
+
+DJU = 2200 (hiver doux) :
+| Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
+|----------|:-------------:|-----:|-------:|
+| 19 | 19 | 110 | 612,48  |
+| 20 |   20  | 116 |  645,9  |
+| 25 | 25 | 176  |  980   |
+
+DJU = 3000 (hiver rude) : 
+| Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
+|----------|:-------------:|-----:|-------:|
+| 19 | 19,015 | 142 | 790,7  |
+| 20 |   20  | 150 |  835,2  |
+| 25 | 25,015 | 203  |  1130,3   |
+
+## Etude de la régulation thermique Proportionnelle Intégrale
+
+DJU = 2200 (hiver doux) :
+| Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
+|----------|:-------------:|-----:|-------:|
+| 19 |  |  |   |
+| 20 |     |  |    |
+| 25 |  |  |     |
+
+DJU = 3000 (hiver rude) :
+| Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
+|----------|:-------------:|-----:|-------:|
+| 19 | 19 | 127 | 707  |
+| 20 |   20  | 136 |  757  |
+| 25 | 25 | 180  |  1002  |

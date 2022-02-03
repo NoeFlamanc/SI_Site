@@ -49,9 +49,9 @@ DJU = 3000 (hiver rude) :
 DJU = 2200 (hiver doux) :
 | Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
 |----------|:-------------:|-----:|-------:|
-| 19 |  |  |   |
-| 20 |     |  |    |
-| 25 |  |  |     |
+| 19 | 18,8 | 106 |  590 |
+| 20 |  20   | 117 |  651  |
+| 25 | 25,1 | 167 |   930  |
 
 DJU = 3000 (hiver rude) :
 | Consigne de Température (°C)   |   Température pièce (°C)    | Puissance elec moyenne (W) |  Energie moyenne (kWh)    |
